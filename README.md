@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋, I'm Leandro Acosta.
 
-<!--
-**lacosta/lacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working as Web UI Developer .
 
-Here are some ideas to get you started:
+Through my years of work experience I've developed technical skills in the field of computer science.
+I have soft skills such as a taste for teamwork, great ability to learn and alert for situations of immediacy.
+I am a proactive person with a very good predisposition and eager to offer my knowledge and learn from my colleagues, for the growth of the company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Find me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lacosta01/)](https://www.linkedin.com/in/lacosta01/)
+
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lacosta)](https://github.com/lacosta/github-readme-stats)
