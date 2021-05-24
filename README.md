@@ -13,5 +13,5 @@ I am a proactive person with a very good predisposition and eager to offer my kn
 
 ## Stats
 
-[![Top Langs][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacosta)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacosta)](https://github.com/anuraghazra/github-readme-stats)
 
